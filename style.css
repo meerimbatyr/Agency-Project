@@ -168,7 +168,7 @@ font-weight: bolder;
 /* Contact */
 
 #contact {
-   background: url(http://www.logiconme.com/assets/img/maps/map.png);
+   background: linear-gradient(rgba(33, 37, 41, 0.6), rgba(33, 37, 41,0.6)),url(http://www.logiconme.com/assets/img/maps/map.png);
    width: 100vw;
    height: auto;
    background-position: center;
